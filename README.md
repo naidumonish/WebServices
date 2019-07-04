@@ -1,2 +1,2 @@
 # meetup-rest-api
-A simple rest api made using SpringBoot
+A set of rest APIs made using SpringBoot
